@@ -36,7 +36,7 @@ title: xk 的 GitHub 博客
 
 - **公开仓库**：27 个  
 - **获得 Stars**：44+  
-- **成就**：🏅 [Pull Shark](https://docs.github.com/en/achievements)
+- **成就**：🏅 发现没有成就
 - **组织成员**：[@openhachimi](https://github.com/openhachimi)
 
 我主要使用 **Python** 开发工具链，涉及：
@@ -71,7 +71,7 @@ title: xk 的 GitHub 博客
 
 如果你也喜欢在代码中寻找旋律，  
 或在频谱里看见星光，  
-欢迎 [关注我](https://github.com/yjzxkxdn) 或给我一个 ⭐！
+欢迎 [哈气我](https://github.com/yjzxkxdn) 或给我一个 ⭐！
 
 这片星空，因你而更亮。
 
