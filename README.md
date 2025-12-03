@@ -22,7 +22,7 @@ title: xk 的 GitHub 博客
 ## 🌠 关于我
 
 你好！我是 **yjzxkxdn**，一个在代码与歌声之间寻找平衡的探索者。  
-我喜欢鼓捣 **歌声合成（Singing Voice Synthesis）**、**神经声码器（Neural Vocoder）** 和一切能让虚拟歌者“开口说话”的技术。
+我喜欢鼓捣一切能让虚拟歌姬“开口说话”的技术。
 
 我的 GitHub 主页就像一片小小的星空——  
 每一颗星星，都是一个实验、一次尝试、一段深夜的调试。  
@@ -36,7 +36,7 @@ title: xk 的 GitHub 博客
 
 - **公开仓库**：27 个  
 - **获得 Stars**：44+  
-- **成就**：🏅 [Pull Shark](https://docs.github.com/en/achievements)（提交狂魔！）  
+- **成就**：🏅 [Pull Shark](https://docs.github.com/en/achievements)
 - **组织成员**：[@openhachimi](https://github.com/openhachimi)
 
 我主要使用 **Python** 开发工具链，涉及：
